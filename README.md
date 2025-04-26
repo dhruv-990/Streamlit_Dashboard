@@ -85,7 +85,7 @@ Want to make your app accessible online? Follow these steps:
 ---
 
 ## 📸 Preview
-![Spiral Preview](https://github.com/Tanmay-hue/Streamlit_Dashboard/blob/main/image.png)
+![Spiral Preview](https://github.com/dhruv-990/Streamlit_Dashboard/blob/main/image.png)
 
 Experience the magic of interactive visualizations with just a few lines of code! 🌀
 
